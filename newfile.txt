@@ -1,2 +1,6 @@
 Hello PolyU
+<<<<<<< HEAD
 This is a local change
+=======
+This is a change in github
+>>>>>>> refs/remotes/origin/main
